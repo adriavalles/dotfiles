@@ -8,12 +8,8 @@ My super small and super simple dotfiles, just my must-have configs. :expression
     4. Enjoy.
 
 ## Features
-* Nice shell prompt.
-* Useful aliases.
 * Git useful shortcuts.
 * Minimal VIM configuration.
-* Nice other small hacks.
-* Add server specific configurations in `.extra` file in your home.
 
 ## To do
 * Create a installation script (automatically create the symlinks and backup existing dotfiles)
